@@ -1,13 +1,22 @@
 # THz-TDS Image Dataset
 The THz-TDS Image Dataset provides THz temporal-spatio-spectral data, available from this page, include 7 sample objects, and each object has 60 views. 
+
+## Download
+**Dataset are available as below:**
+https://drive.google.com/drive/folders/11F33tinezQA8TrqHzrH3jZMgGPj11Tye?usp=sharing
+
 The dataset include 4 files:
+
 **Gt:** the Ground-truth image.
+
 **Time:** the time domain signal.
+
 **Amp:** the amplitude compinents from time frequency.
+
 **Phase:** the phase compinents from time frequency.
 
 
-# About Dataset
+## About Dataset
 The measurement of sample objects by a Printech 3D printer, and use the material of high impact polystyrene (HIPS) for 3D-printing the objects
 due to its high penetration of THz waves. We then use our in-house ASOPS THz-TDS system. 
 Each sample object is placed on a motorized stage between the source and the receiver. 
