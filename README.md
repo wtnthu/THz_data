@@ -1,6 +1,6 @@
 # THz-TDS Image Dataset
 The THz-TDS Image Dataset provides THz temporal-spatio-spectral data, available from this page, include 7 sample objects, and each object has 60 views. 
-<img src='./fig/data_vis,png' width=880>
+<img src='./fig/data_vis.png'>
 
 ## Download
 **Dataset are available as below:**
