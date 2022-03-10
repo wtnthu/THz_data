@@ -22,7 +22,7 @@ The dataset include 4 files:
 **The data folder is structured as follows:**
 
     dataset
-        ├── Gt
+        ├────── Gt
         │       ├── deer
         │       │     ├── 0.npy
         |       |     | .....
