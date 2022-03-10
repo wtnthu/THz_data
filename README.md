@@ -18,6 +18,24 @@ The dataset include 4 files:
 
 **Phase:** the phase compinents from frequency domain.
 
+**The data folder is structured as follows:
+
+    dataset
+        ├── Gt
+        │       ├── deer
+        │       │     ├── 0.npy
+        |       |     | .....
+        │       │     └── 59.npy
+        │       ├── eevee
+        │       ├── box
+        │       ├── dna
+        │       ├── robot
+        │       ├── polarbear
+        │       ├── skull
+        └── Time
+        └── Amp
+        └── Phase
+
 
 ## About Dataset
 The measurement of sample objects by a Printech 3D printer, and use the material of high impact polystyrene (HIPS) for 3D-printing the objects
