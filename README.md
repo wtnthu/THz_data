@@ -14,9 +14,9 @@ The dataset include 4 files:
 
 **Time:** the time domain signal.
 
-**Amp:** the amplitude compinents from time frequency.
+**Amp:** the amplitude compinents from frequency domain.
 
-**Phase:** the phase compinents from time frequency.
+**Phase:** the phase compinents from frequency domain.
 
 
 ## About Dataset
