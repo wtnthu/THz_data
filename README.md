@@ -19,7 +19,7 @@ The dataset include 4 files:
 **Phase:** the phase compinents from frequency domain.
 
 
-### The data folder is structured as follows:**
+### The data folder is structured as follows:
 
     dataset
         ├────── Gt
