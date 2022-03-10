@@ -32,7 +32,7 @@ The dataset include 4 files:
         │       ├── dna
         │       ├── robot
         │       ├── polarbear
-        │       ├── skull
+        │       └── skull
         └── Time
         └── Amp
         └── Phase
