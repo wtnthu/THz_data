@@ -14,9 +14,9 @@ https://drive.google.com/file/d/1FqxHWqjZOZme_pzE7Nx9osHlDV4FOyXb/view?usp=shari
 
 **Time:** the time domain signal.
 
-**Amp:** the amplitude compinents from frequency domain.
+**Amp:** the amplitude components from frequency domain.
 
-**Phase:** the phase compinents from frequency domain.
+**Phase:** the phase components from frequency domain.
 
 
 ### The data folder is structured as follows:
