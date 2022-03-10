@@ -25,7 +25,7 @@ The dataset include 4 files:
         ├────── Gt
         │       ├── deer
         │       │     ├── 0.npy
-        |       |     | .....
+        |       |     |    :
         │       │     └── 59.npy
         │       ├── eevee
         │       ├── box
