@@ -28,3 +28,24 @@ In the scanning phase, we scan the objects covering a rotational range of 180 de
 In this way, we obtain 30 projections of each object, which are then augmented to 60 projections by horizontal flipping. The ground-truths of individual projections are obtained by converting the original 3D printing files into image projections in every view-angle. We use markers to indicate the center of rotation so that we can align the ground-truths with the measured THz data. In this paper, totally 7 objects are printed, measured, and aligned for evaluation. 
 
 <img src='./fig/design.png' width=600>
+
+## License and Citation
+All datasets and benchmarks on this page are copyright by us and published under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/). This means that you must attribute the work in the manner specified by the authors, you may not use this work for commercial purposes and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same license.
+
+```
+@inproceedings{hung2019terahertz,
+  title={Terahertz deep learning computed tomography},
+  author={Hung, Yi-Chun and Yang, Shang-Hua},
+  booktitle={2019 44th international conference on infrared, millimeter, and terahertz waves (IRMMW-THz)},
+  pages={1--2},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{su2021seeing,
+  title={Seeing through a black box: Toward high-quality terahertz tomographicimaging via multi-scale spatio-spectral image fusion},
+  author={Su, Weng-tai and Chao, Ta-Hsuan and Yang, Shang-Hua and Lin, Chia-Wen},
+  journal={arXiv preprint arXiv:2103.16932},
+  year={2021}
+}
+```
