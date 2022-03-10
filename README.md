@@ -6,7 +6,7 @@ The THz-TDS Image Dataset provides THz temporal-spatio-spectral data, available 
 ## Download
 **Dataset are available as below:**
 
-https://drive.google.com/drive/folders/11F33tinezQA8TrqHzrH3jZMgGPj11Tye?usp=sharing
+https://drive.google.com/file/d/1FqxHWqjZOZme_pzE7Nx9osHlDV4FOyXb/view?usp=sharing
 
 The dataset include 4 files:
 
